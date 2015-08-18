@@ -12,7 +12,7 @@
 OutPut($items,'id','data','name');
 ?>
 
-<br><a href="http://news.loc/view/addd.php" target="_blank">Добавить статью</a>
+<br><a href="view/add.php" target="_blank">Добавить статью</a>
 
 </body>
 </html>
